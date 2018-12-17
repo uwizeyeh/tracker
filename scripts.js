@@ -8,3 +8,15 @@ function getResult(){
         alert("Equilateral");
         window.location.href="eqvrt.html";
 }
+else if(side1 === side2 || side1 === side3 || side2 === side3){
+alert("Isosceles");
+window.location.href="iscol.html";
+}
+else if((side1 + side2) <= side3 || (side1 + side3) <= side2 || (side2 + side3) <= side1) {
+alert("Not a definite triangle");
+}
+else{
+alert("Scalene");
+window.location.href="scal.html";
+}
+}
