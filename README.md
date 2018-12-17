@@ -19,7 +19,7 @@ How it work,triangle tracker has three input values,when you enter three sides a
 * README
 * Javascript
 ### link
-
+if you want to check out just click:
 ### License
 copyright (c)2018
 
