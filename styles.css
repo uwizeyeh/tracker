@@ -2,19 +2,19 @@
     width: 0;
     border-right: 250px solid transparent;
     border-left: 250px solid transparent ;
-    border-bottom: 250px solid rgb(250,0,0);
+    border-bottom: 250px solid green;
 }
-#Iscole{
+#iscale{
     width: 0;
-    border-right: 250px solid transparent;
-    border-left: 250px solid transparent ;
-    border-bottom: 200px solid rgb( #008000);
+    border-right:250px solid transparent;
+    border-left:250px solid transparent ;
+    border-bottom:200px solid #000;
 }
 #scalene{
     width: 0;
     border-right: 230px solid transparent;
     border-left: 250px solid transparent ;
-    border-bottom: 200px solid rgb( #008000);
+    border-bottom: 200px solid white;
 }
 
 body{
