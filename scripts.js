@@ -10,7 +10,7 @@ function getResult(){
 }
 else if(side1 === side2 || side1 === side3 || side2 === side3){
 alert("Isosceles");
-window.location.href="iscol.html";
+window.location.href="iscole.html";
 }
 else if((side1 + side2) <= side3 || (side1 + side3) <= side2 || (side2 + side3) <= side1) {
 alert("Not a definite triangle");
