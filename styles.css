@@ -23,3 +23,16 @@ body{
 }
 button{background-color: blue;
 }
+h1 {
+    color: red;
+    font-style: italic;
+    margin-left: 20px;
+}
+  img{
+      border:5px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4%;
+
+  }
+    
